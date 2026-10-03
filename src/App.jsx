@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To The Affu sir class 
+        Welcome To  Affu sir class 
       </h1> 
     </div>
   );
